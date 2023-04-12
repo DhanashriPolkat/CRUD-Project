@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+#div{
+    border: 5px ;
+    height: 350px;
+    width: 600px;
+    border-radius: 10cm;
+    box-shadow: 10px 10px 5px;
+    background-color: beige;
+    background: transparent;
+    color: aliceblue;
+}
+
+#b{
+	background-image: url(bg3.jpg);
+	padding-top: 30px
+}

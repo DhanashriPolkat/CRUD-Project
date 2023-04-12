@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+#div{
+    border: 2px;
+    height: 400px;
+    width: 400px;
+    
+    box-shadow: 10px 10px 50px;
+    border-radius: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    border-color: rgb(126, 23, 23);
+    border-top-color: aqua;
+    background: transparent;
+   
+}
+
+
+a{
+    float: right;
+    
+    padding-right: 80px;
+}
+
+label{
+    color: indigo;
+}
+
+h1{
+    color: rgb(10, 54, 40);
+}
+
+input{
+    float: right;
+    width:10px;
+    padding-right: 150px;
+     background: transparent;
+     border: 0px;
+     font-size: 17px;
+    color: indigo;
+}
+
+body{
+    background-image: url(bl1.jpg.jpg);
+}
